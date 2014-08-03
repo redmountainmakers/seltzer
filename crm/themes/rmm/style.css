@@ -37,7 +37,7 @@ h1 {
 fieldset {
     margin: 0.5em;
     padding: 0.5em 1em;
-    border: solid 1px #0099cb;
+    border: solid 1px #BC360A;
 }
 
 fieldset.form-row {
@@ -61,7 +61,7 @@ label {
 
 a {
     font-weight: bold;
-    color: #0099cb;
+    color: #BC360A;
 }
 a:focus {
     outline: none;
@@ -84,12 +84,12 @@ table.seltzer-table {
     margin: 0.5em;
 }
 table.seltzer-table th {
-    background: #0099cb;
+    background: #BC360A;
     color: white;
 }
 table.seltzer-table td, table.seltzer-table th {
-    border-left: solid 1px #0099cb;
-    border-right: solid 1px #0099cb;
+    border-left: solid 1px #BC360A;
+    border-right: solid 1px #BC360A;
     border-spacing: 0;
     padding: 0.2em 0.5em;
     text-align: left;
@@ -100,20 +100,20 @@ table.seltzer-table tr.subhead td {
     border-bottom: none;
     color: white;
     font-weight: normal;
-    border-top: solid 1px #0099cb;
+    border-top: solid 1px #BC360A;
 }
 table.seltzer-table tr.subhead td a {
     color: white;
     font-weight: normal;
 }
 table.seltzer-table tr.even td, table.seltzer-table tr.even th {
-    background-color: #eeeeff;
+    background-color: #F1EFE2;
 }
 table.seltzer-table tr:last-child td {
-    border-bottom: solid 1px #0099cb;
+    border-bottom: solid 1px #BC360A;
 }
 table.seltzer-table tr:first-child td {
-    border-top: solid 1px #0099cb;
+    border-top: solid 1px #BC360A;
 }
 /* Report styles */
 
@@ -149,8 +149,8 @@ table.seltzer-table tr:first-child td {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    border-top: solid 2px #0099cb;
-    border-bottom: solid 2px #0099cb;
+    border-top: solid 2px #BC360A;
+    border-bottom: solid 2px #BC360A;
 }
 
 .header ul.nav li {
@@ -165,11 +165,11 @@ table.seltzer-table tr:first-child td {
     height: 1.5em;
     padding: 0.5em 0.5em 0 0.5em;
     text-decoration: none;
-    color: #0099cb;
+    color: #BC360A;
     font-weight: bold;
 }
 .header ul.nav li a:hover {
-    background: #eeeeff;
+    background: #F1EFE2;
 }
 
 .login-status {
@@ -195,14 +195,14 @@ ul.page-nav li a {
     margin: 0 0.5em 0 0;
     padding: 0.5em 0.5em 0 0.5em;
     text-decoration: none;
-    color: #0099cb;
+    color: #BC360A;
     font-weight: bold;
 }
 ul.page-nav li a:hover {
-    background: #eeeeff;
+    background: #F1EFE2;
 }
 ul.page-nav li a.active {
-    background: #eeeeff;
+    background: #F1EFE2;
 }
 
 fieldset.tab {
@@ -216,7 +216,7 @@ fieldset.tab > legend {
 }
 
 .footer {
-    border-top: solid 2px #0099cb;
+    border-top: solid 2px #BC360A;
     padding: 1em 0 0.5em 0;
     color: #999999;
     text-align: center;

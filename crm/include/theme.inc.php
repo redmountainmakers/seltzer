@@ -35,14 +35,14 @@ function theme_header () {
  * @return The themed html string for a page footer.
 */
 function theme_footer() {
-    return 'Powered by <a href="http://github.com/elplatt/seltzer">Seltzer CRM</a>';
+    return 'Powered by <a href="https://github.com/redmountainmakers/seltzer">Seltzer CRM</a>';
 }
 
 /**
  * @return The themed html string for logo.
 */
 function theme_logo () {
-    return '<div class="logo"><img alt="i3 Detroit" src="' . path_to_theme() . '/images/logo.png"/></div>';
+    return '<div class="logo"><img alt="RMM Birmingham" src="' . path_to_theme() . '/images/logo.png"/></div>';
 }
 
 /**
